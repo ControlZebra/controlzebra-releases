@@ -3,11 +3,6 @@
   "releaseDate": "2026-02-07T23:55:21Z",
   "releaseNotes": "## ControlZebra Beta 1\n\n- Initial public beta release\n- Auto-update pipeline enabled\n- Bug fixes and stability improvements\n\nPlease report issues at https://github.com/ControlZebra/controlzebra-releases/issues",
   "platforms": {
-    "darwin-arm64": {
-      "url": "https://github.com/ControlZebra/controlzebra-releases/releases/download/v0.1.0-beta.1/control-zebra-0.1.0-beta.1-darwin-arm64",
-      "size": 13448658,
-      "checksum": "sha256:da2cb39ca97c97672d45ad49ce83b806a5cd36d978b33b81c7d2ae272c9ed9e5"
-    },
     "windows-amd64": {
       "url": "https://github.com/ControlZebra/controlzebra-releases/releases/download/v0.1.0-beta.1/control-zebra-0.1.0-beta.1-windows-amd64.exe",
       "size": 14841344,
