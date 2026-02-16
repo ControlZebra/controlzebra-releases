@@ -1,17 +1,17 @@
 {
-  "version": "0.2.0-beta",
-  "releaseDate": "2026-02-16T12:17:41Z",
-  "releaseNotes": "## ControlZebra v0.2.0-beta\n\n- Fixed Windows app menu visibility by wiring the native application menu to the main window\n- Set default sidebar width to the maximum allowed startup width\n- Added Settings > General > App Updates card with current version, last checked time, and manual check button\n\nPlease report issues at https://github.com/ControlZebra/controlzebra-releases/issues",
+  "version": "v0.3.0-beta",
+  "releaseDate": "2026-02-16T16:40:12Z",
+  "releaseNotes": "## ControlZebra v0.3.0-beta\n\n- Fixed Windows updater relaunch flow getting stuck on \"The app will relaunch momentarily\"\n- Fixed update download progress reporting so total size and percent update correctly\n- Added a standard \"Launch ControlZebra\" option on the installer finish screen\n\nPlease report issues at https://github.com/ControlZebra/controlzebra-releases/issues",
   "platforms": {
     "windows-amd64": {
-      "url": "https://controlzebra.github.io/controlzebra-releases/releases/download/v0.2.0-beta/control-zebra-amd64-installer.exe",
-      "size": 76346200,
-      "checksum": "sha256:bebf0edcd41f7aebb067e526671fd6d5a6b418af1b5444bd2940ac824ca20f55"
+      "url": "https://controlzebra.github.io/controlzebra-releases/releases/download/v0.3.0-beta/control-zebra-amd64-installer.exe",
+      "size": 9498160,
+      "checksum": "sha256:15b2e1e4a1127b82975f43c76674e274028d51e878a1e22593c7a595c4ba7c6f"
     },
     "windows-arm64": {
-      "url": "https://controlzebra.github.io/controlzebra-releases/releases/download/v0.2.0-beta/control-zebra-arm64-installer.exe",
-      "size": 72875736,
-      "checksum": "sha256:5aa345e48a968764a853f8fb9d11be8033209daac900b8810d1ee6e7b7e2ea60"
+      "url": "https://controlzebra.github.io/controlzebra-releases/releases/download/v0.3.0-beta/control-zebra-arm64-installer.exe",
+      "size": 9099905,
+      "checksum": "sha256:b931580480bc5391eb7590063921c93d9e028b5f6fe7422f31a42c58193a81ed"
     }
   }
 }
