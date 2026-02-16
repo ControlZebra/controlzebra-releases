@@ -1,17 +1,17 @@
 {
-  "version": "v0.5.0-beta",
-  "releaseDate": "2026-02-16T18:36:38Z",
-  "releaseNotes": "## ControlZebra v0.5.0-beta\n\n- Windows beta release for v0.5.0-beta.\n- Includes updated installer behavior to reduce file-lock install failures during upgrades.\n- Includes update UI version-label formatting fix (`v0.5.0-beta` shown correctly).\n\nPlease report issues at https://github.com/ControlZebra/controlzebra-releases/issues",
+  "version": "v0.6.0-beta",
+  "releaseDate": "2026-02-16T19:21:04Z",
+  "releaseNotes": "## ControlZebra v0.6.0-beta\n\n- Windows beta release for v0.6.0-beta.\n- Includes the latest desktop improvements and fixes for the beta channel.\n\nPlease report issues at https://github.com/ControlZebra/controlzebra-releases/issues",
   "platforms": {
     "windows-amd64": {
-      "url": "https://controlzebra.github.io/controlzebra-releases/releases/download/v0.5.0-beta/control-zebra-amd64-installer.exe",
-      "size": 10071160,
-      "checksum": "sha256:07a09d1592d2c2a44c85bab1d6215021a247a32006c55b3e423d6a5a32fbae92"
+      "url": "https://controlzebra.github.io/controlzebra-releases/releases/download/v0.6.0-beta/control-zebra-amd64-installer.exe",
+      "size": 10072104,
+      "checksum": "sha256:c03fdea12a628bdc750816b33ab752daa424fbf39f3ef9a71f35d376ea4b214f"
     },
     "windows-arm64": {
-      "url": "https://controlzebra.github.io/controlzebra-releases/releases/download/v0.5.0-beta/control-zebra-arm64-installer.exe",
-      "size": 9609384,
-      "checksum": "sha256:fbce438caa62cf6d5d0beceb582dd19f30816b774428c36f1989145ca251a829"
+      "url": "https://controlzebra.github.io/controlzebra-releases/releases/download/v0.6.0-beta/control-zebra-arm64-installer.exe",
+      "size": 9609720,
+      "checksum": "sha256:bfecb62a3083557bcfa5eb1c3065c6adfa83da80c263240984d55e9ab0baacb0"
     }
   }
 }
