@@ -1,17 +1,17 @@
 {
-  "version": "v0.3.0-beta",
-  "releaseDate": "2026-02-16T16:40:12Z",
-  "releaseNotes": "## ControlZebra v0.3.0-beta\n\n- Fixed Windows updater relaunch flow getting stuck on \"The app will relaunch momentarily\"\n- Fixed update download progress reporting so total size and percent update correctly\n- Added a standard \"Launch ControlZebra\" option on the installer finish screen\n\nPlease report issues at https://github.com/ControlZebra/controlzebra-releases/issues",
+  "version": "v0.4.0-beta",
+  "releaseDate": "2026-02-16T19:05:00Z",
+  "releaseNotes": "## ControlZebra v0.4.0-beta\n\n- Windows beta release for v0.4.0-beta\n- Includes self-signed installers for AMD64 and ARM64\n\nPlease report issues at https://github.com/ControlZebra/controlzebra-releases/issues",
   "platforms": {
     "windows-amd64": {
-      "url": "https://controlzebra.github.io/controlzebra-releases/releases/download/v0.3.0-beta/control-zebra-amd64-installer.exe",
-      "size": 9498160,
-      "checksum": "sha256:15b2e1e4a1127b82975f43c76674e274028d51e878a1e22593c7a595c4ba7c6f"
+      "url": "https://controlzebra.github.io/controlzebra-releases/releases/download/v0.4.0-beta/control-zebra-amd64-installer.exe",
+      "size": 10067656,
+      "checksum": "sha256:3be636f38f63041fa3d71ff7cbfa0087bd298a3eb88485ba8f016a29aae31b03"
     },
     "windows-arm64": {
-      "url": "https://controlzebra.github.io/controlzebra-releases/releases/download/v0.3.0-beta/control-zebra-arm64-installer.exe",
-      "size": 9099905,
-      "checksum": "sha256:b931580480bc5391eb7590063921c93d9e028b5f6fe7422f31a42c58193a81ed"
+      "url": "https://controlzebra.github.io/controlzebra-releases/releases/download/v0.4.0-beta/control-zebra-arm64-installer.exe",
+      "size": 9605464,
+      "checksum": "sha256:703aab1d51aca1a790ee1d5d7ba9db9c215b6b8e4603404b2a0e86624ec547fc"
     }
   }
 }
