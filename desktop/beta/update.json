@@ -6,12 +6,12 @@
     "windows-amd64": {
       "url": "https://controlzebra.github.io/controlzebra-releases/releases/download/v0.10.0-beta/control-zebra-amd64-installer.exe",
       "size": 10073272,
-      "checksum": "sha256:d0b39b8ac83b45413e884513e3307ab36bcbf9b8c23d5388b19e36ef63b1d748"
+      "checksum": "sha256:ca97f29032ff19b96b345b08b8b0c46c391456f8340e5981a6ad6548f5204c1d"
     },
     "windows-arm64": {
       "url": "https://controlzebra.github.io/controlzebra-releases/releases/download/v0.10.0-beta/control-zebra-arm64-installer.exe",
       "size": 9610744,
-      "checksum": "sha256:a6739d53a521fdea47b52c22c3e6372a51984a3459663a5a74666adbbeb86d6c"
+      "checksum": "sha256:5a7525fa46b4520b156ff05233d033da2c7da22eaa6b6fe2065775adea7dc442"
     }
   }
 }
