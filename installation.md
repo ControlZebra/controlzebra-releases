@@ -1,4 +1,4 @@
-# Instalation Instructions
+# Installation Guide
 
 Before you open the installer, make sure that you disable the antivirus. Why? because the current app does not have code signature & it costs fairly high (Cost: $400-600/ year). 
 
