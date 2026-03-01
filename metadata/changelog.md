@@ -21,7 +21,7 @@ First customer release.
     - `I am ready to merge`.
 - Guided Git onboarding for local tracking, plus package readiness checks for Git and Git LFS.
 - Commit and working-change workflow with file-level change visibility and diff access.
-- Visual diff support for industrial files, including ladder logic (`.l5x`, `.l5k`) and PDF documents.
+- Visual diff support for Studio 5000 export (`.l5x`, `.l5k`) and PDF documents.
 - History experience with both commit list and branch graph views.
 - Merge workflow with conflict checking, selective review, guided resolution, and completion flow.
 - GitHub publish and authentication flow for cloud backup and team collaboration.
@@ -39,5 +39,6 @@ First customer release.
 
 - Some UI elements like 'Publish to GitHub' do not update in real time. They will update when you load the project again.
 - Buggy viewer in merge operation
+- Theming is not fully supported (specifically, light theme)
 - Some advanced Git operations still use technical terms in specific screens.
 - Support is optimized for desktop-first workflows and may vary by artifact complexity.
