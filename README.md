@@ -1,6 +1,6 @@
 # ControlZebra
 
-ControlZebra is a desktop Git client built for industrial automation teams.
+ControlZebra is a desktop Git client built for industrial automation teams. It is currently under closed beta phase.
 
 If you work with PLC logic, HMI projects, and electrical drawing PDFs, ControlZebra helps you track, compare, and merge changes without forcing your team to become Git experts.
 
