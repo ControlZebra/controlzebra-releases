@@ -38,5 +38,6 @@ First customer release.
 ### Known Limitations
 
 - Some UI elements like 'Publish to GitHub' do not update in real time. They will update when you load the project again.
+- Buggy viewer in merge operation
 - Some advanced Git operations still use technical terms in specific screens.
 - Support is optimized for desktop-first workflows and may vary by artifact complexity.
